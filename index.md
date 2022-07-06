@@ -1,11 +1,11 @@
 ---
-title: Welcome to the QA Automation Robot Framework Lib Docs for the Stream project
+title: Welcome to the **Automatzen** Docs Library
 ---
 
 # Admin Pages
 
 - Admin Resources
-  - Admin Rsources [admin_resources](https://github.com/sgbres/Stream-QA-RF-DocLib/html/admin_resources_page.html)
+  - [admin_resources](https://github.com/sgbres/Stream-QA-RF-DocLib/html/admin_resources_page.html)
 - Admin Settings
   - Badges 
     - [add_badge](html/add_badge_page.html)
