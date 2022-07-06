@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to the QA Automation Robot Framework Lib Docs for the Stream project
 ---
 
 # Admin Pages
@@ -9,7 +9,7 @@ title: Welcome to my blog
 - Admin Settings
   - Badges 
     - [add_badge](html/add_badge_page.html)
-    - [badge_issued] (html/badge_issued_page.html)
+    - [badge_issued](html/badge_issued_page.html)
     - [edit_badge](html/edit_badge_page.html)
   - Base Page
     - [settings_base](html/settings_base_page.html)
