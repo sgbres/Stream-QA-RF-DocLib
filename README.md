@@ -1,4 +1,4 @@
-# Automatzen Hackathon 2022
+# Automazing Hackathon 2022
 
 This is a documention library for custom created keywords in the Learning Pool Automation Suite.
 
