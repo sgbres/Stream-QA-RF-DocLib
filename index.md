@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Automatzen Docs Library
+title: Welcome to the Automazing Docs Library
 ---
 
 
