@@ -5,99 +5,99 @@ title: Admin Docs Library
 ## Admin Pages
 
 - Admin Resources
- - [admin_resources](/html/admin_resources_page.html)
+  - [admin_resources](/html/admin_resources_page.html)
 - Admin Settings
- - Badges 
-  - [add_badge](/html/add_badge_page.html)
-  - [badge_issued](/html/badge_issued_page.html)
-  - [edit_badge](/html/edit_badge_page.html)
- - Base Page
-  - [settings_base](/html/settings_base_page.html)
+  - Badges 
+    - [add_badge](/html/add_badge_page.html)
+    - [badge_issued](/html/badge_issued_page.html)
+    - [edit_badge](/html/edit_badge_page.html)
+  - Base Page
+    - [settings_base](/html/settings_base_page.html)
   - Emails
-   - [emails](/html/emails_base_page.html)
-   - [emails_send](/html/emails_send_email_page.html)
-   - [emails_template](/html/emails_templates_page.html)
- - Fields
-   - Entity Fields
-    - [entity_fields](/html/entity_fields_page.html)
-   - Job Roles Fields
-    - [job_roles_fields](/html/job_roles_fields_page.html)
-   - Profile Fields
-    - [profile_fields](/html/profile_fields.html)
- - Frameworks
-   - [add_edit_entity_sidebar](/html/add_edit_entity_sidebar.html)
-   - [add_edit_framework](/html/add_edit_framework_sidebar.html)
-   - [hide_entity](/html/hide_entity_modal.resource.html)
-   - [hierarchies](/html/hierarchies_page.html)
-   - [success_add_framework_sidebar](/html/success_add_framework_sidebar.html)
- - Sections
-   - [sections](/html/sections_page.html)
- - Services
-   - [beta](/html/beta_features_page.html)
-   - [complete_your_profile](/html/complete_your_profile_page.html)
-   - [onboarding](/html/service_onboarding_page.html)
-   - [skills_levels](/html/service_skills_and_levels_page.html)
-   - [linkedin_learning](/html/services_linkedin_learning_page.html)
-   - [sections](/html/services_sections_page.html)
-   - [uiux](/html/ui_ux_page.html)
-   - [venue_integration](/html/venue_integration_page.html)
- - Admin Settings Side Menu Nav
-   - [badges](/html/badges_page.html)
-   - [edit_org](/html/edit_organisation_page.html)
-   - [frameworks](/html/frameworks_page.html)
-   - [moderation](/html/moderation_page.html)
-   - [reports](/html/reports_page.html)
-   - [services](/html/services_page.html)
-   - [tags](/html/tags_page.html)
-   - [theme](/html/theme_page.html)
+    - [emails](/html/emails_base_page.html)
+    - [emails_send](/html/emails_send_email_page.html)
+    - [emails_template](/html/emails_templates_page.html)
+  - Fields
+    - Entity Fields
+      - [entity_fields](/html/entity_fields_page.html)
+    - Job Roles Fields
+      - [job_roles_fields](/html/job_roles_fields_page.html)
+    - Profile Fields
+      - [profile_fields](/html/profile_fields.html)
+  - Frameworks
+    - [add_edit_entity_sidebar](/html/add_edit_entity_sidebar.html)
+    - [add_edit_framework](/html/add_edit_framework_sidebar.html)
+    - [hide_entity](/html/hide_entity_modal.resource.html)
+    - [hierarchies](/html/hierarchies_page.html)
+    - [success_add_framework_sidebar](/html/success_add_framework_sidebar.html)
+  - Sections
+    - [sections](/html/sections_page.html)
+  - Services
+    - [beta](/html/beta_features_page.html)
+    - [complete_your_profile](/html/complete_your_profile_page.html)
+    - [onboarding](/html/service_onboarding_page.html)
+    - [skills_levels](/html/service_skills_and_levels_page.html)
+    - [linkedin_learning](/html/services_linkedin_learning_page.html)
+    - [sections](/html/services_sections_page.html)
+    - [uiux](/html/ui_ux_page.html)
+    - [venue_integration](/html/venue_integration_page.html)
+  - Admin Settings Side Menu Nav
+    - [badges](/html/badges_page.html)
+    - [edit_org](/html/edit_organisation_page.html)
+    - [frameworks](/html/frameworks_page.html)
+    - [moderation](/html/moderation_page.html)
+    - [reports](/html/reports_page.html)
+    - [services](/html/services_page.html)
+    - [tags](/html/tags_page.html)
+    - [theme](/html/theme_page.html)
 - Admin Base Page
- - [admin_base](/html/admin_base_page.html)
+  - [admin_base](/html/admin_base_page.html)
 - Dashboard
- - [admin_dashbord](/html/dashboard_page.html)
+  - [admin_dashbord](/html/dashboard_page.html)
 - Groups
- - Dynamic Group Rules
-   - [dynamic_rules](/html/dynamic_rules_tab.html)
-   - [delete_rule](/html/delete_rule_modal.html)
-   - [delete_set](/html/delete_set_modal.html)
- - [group_members](/html/group_members_tab.html)
- - [groups](/html/groups_page.html)
+  - Dynamic Group Rules
+    - [dynamic_rules](/html/dynamic_rules_tab.html)
+    - [delete_rule](/html/delete_rule_modal.html)
+    - [delete_set](/html/delete_set_modal.html)
+  - [group_members](/html/group_members_tab.html)
+  - [groups](/html/groups_page.html)
 - Learning Experience
- - Enrollments
-  - [lx_enrol_users](/html/learning_experience_enroll_users_page.html)
-  - [lx_view_all](/html/learning_experience_view_all_page.html)
- - LX Reports
-  - [lx_reports](/html/learnexp_reports_page.html)
- - Manage Content
-  - [lx_display_settings](/html/lx_manage_content_displaysettings_page.html)
-  - [lx_game_settings](/html/lx_manage_content_gamesettings_page.html)
-  - [lx_objects](/html/lx_manage_content_objects_page.html)
-  - [lx_object_resources](/html/lx_manage_content_objects_resources_modal.html)
-  - [lx_social_settings](/html/lx_manage_content_socialsettings_page.html)
-- Settings
-  - [display_options](/html/display_options_accordian_page.html)
- - [learnexp_manage](/html/learnexp_manage_content_page.html)
- - [learnexp_roles](/html/learnexp_roles_page.html)
- - [learning_exp](/html/learning_experience_page.html)
+  - Enrollments
+    - [lx_enrol_users](/html/learning_experience_enroll_users_page.html)
+    - [lx_view_all](/html/learning_experience_view_all_page.html)
+  - LX Reports
+    - [lx_reports](/html/learnexp_reports_page.html)
+  - Manage Content
+    - [lx_display_settings](/html/lx_manage_content_displaysettings_page.html)
+    - [lx_game_settings](/html/lx_manage_content_gamesettings_page.html)
+    - [lx_objects](/html/lx_manage_content_objects_page.html)
+    - [lx_object_resources](/html/lx_manage_content_objects_resources_modal.html)
+    - [lx_social_settings](/html/lx_manage_content_socialsettings_page.html)
+  - Settings
+    - [display_options](/html/display_options_accordian_page.html)
+  - [learnexp_manage](/html/learnexp_manage_content_page.html)
+  - [learnexp_roles](/html/learnexp_roles_page.html)
+  - [learning_exp](/html/learning_experience_page.html)
 - Organisation
- - [org](/html/organisation_page.html)
+  - [org](/html/organisation_page.html)
 - Playlists
- - [playlists](/html/play-lists_page.html)
+  - [playlists](/html/play-lists_page.html)
 - Roles
- - [badge_admin](/html/badge_admin_page.html)
- - [course_creator](/html/course_creator_page.html)
- - [group_admin](/html/group_admin_page.html)
- - [group_creator](/html/group_creator_page.html)
- - [user_manager](/html/user_manager_base_page.html)
+  - [badge_admin](/html/badge_admin_page.html)
+  - [course_creator](/html/course_creator_page.html)
+  - [group_admin](/html/group_admin_page.html)
+  - [group_creator](/html/group_creator_page.html)
+  - [user_manager](/html/user_manager_base_page.html)
 - Users
- - Job Roles
-  - [add_edit_job_role](//html/add_edit_job_role_sidebar.html)
-  - [users_job_role](/html/users_job_roles_page.html)
- - [notifications](/html/notifications_page.html)
- - [onboarding](/html/onboarding_page.html)
- - [select_framework](/html/select_framework_sidebar.html)
- - [select_manager](/html/select_manager_sidebar.html)
- - [user_info](/html/user_information_page.html)
- - [user_profile_fields](/html/user_profile_fields_page.html)
- - [user_skills](/html/user_skills_and_levels_page.html)
- - [login_as](/html/users_login_as_user.html)
- - [users](/html/users_page.html)
+  - Job Roles
+    - [add_edit_job_role](/html/add_edit_job_role_sidebar.html)
+    - [users_job_role](/html/users_job_roles_page.html)
+  - [notifications](/html/notifications_page.html)
+  - [onboarding](/html/onboarding_page.html)
+  - [select_framework](/html/select_framework_sidebar.html)
+  - [select_manager](/html/select_manager_sidebar.html)
+  - [user_info](/html/user_information_page.html)
+  - [user_profile_fields](/html/user_profile_fields_page.html)
+  - [user_skills](/html/user_skills_and_levels_page.html)
+  - [login_as](/html/users_login_as_user.html)
+  - [users](/html/users_page.html)
