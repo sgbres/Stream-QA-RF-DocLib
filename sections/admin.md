@@ -2,7 +2,7 @@
 title: Admin Docs Library
 ---
 
-# Admin Pages
+## Admin Pages
 
 - Admin Resources
   - [admin_resources](/html/admin_resources_page.html)
