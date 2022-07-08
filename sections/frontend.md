@@ -1,5 +1,8 @@
 ---
 title: Frontend Docs Library
+header-includes:
+- [Home](/index.md)
+- [Admin Pages](/sections/admin.md)
 ---
 
 ## Frontend Pages
