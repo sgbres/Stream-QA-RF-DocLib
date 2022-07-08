@@ -34,4 +34,4 @@ title: Frontend Docs Library
 
 
 ### Site Navigation
-| [Frontend](/sections/frontend.md) | [Admin](/sections/admin.md) |
+| [Home](/index.md) | [Admin](../sections/newadmin.md) |
