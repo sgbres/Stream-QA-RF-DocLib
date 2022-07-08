@@ -5,7 +5,7 @@ title: Admin Docs Library
 ## Admin Pages
 
 
-| Admin Pages | Page Sections | Page Subsections | Doc Link |
+| Admin Pages | Page Sections | Subsections | Doc Link |
 | -------------- | ----------- | ----------- | ----------- |
 | Admin Resources | | | [admin_resources](../html/admin_resources_page.html) |
 | Admin Settings | | | |
