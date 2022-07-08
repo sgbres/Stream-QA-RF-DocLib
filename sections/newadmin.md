@@ -94,4 +94,4 @@ title: Admin Docs Library
 
 
 ### Site Navigation
-| [Home](/index.md) | [Frontend](../sections/newfrontend.md) |
+| [Home](../index.md) | [Frontend](../sections/newfrontend.md) |
