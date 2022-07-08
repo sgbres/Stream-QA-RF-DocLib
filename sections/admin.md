@@ -1,8 +1,5 @@
 ---
 title: Admin Docs Library
-header-includes:
-- [Home](/index.md)
-- [Frontend Pages](/sections/frontend.md)
 ---
 
 ## Admin Pages
